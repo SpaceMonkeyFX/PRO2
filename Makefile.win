@@ -1,7 +1,7 @@
 # Project: Kviz
 # Compiler: Default GCC compiler
 # Compiler Type: MingW 3
-# Makefile created by wxDev-C++ IDE 7.4.2.569 on 21/12/17 13:00
+# Makefile created by wxDev-C++ IDE 7.4.2.569 on 21/12/17 14:38
 
 WXLIBNAME = wxmsw29u
 CPP       = g++.exe

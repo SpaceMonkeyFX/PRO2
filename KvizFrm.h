@@ -48,6 +48,9 @@ class KvizFrm : public wxFrame
 		void KvizFrmActivate(wxActivateEvent& event);
 		void WxHyperLinkCtrl1HyperLink(wxHyperlinkEvent& event);
 		void WxButton1Click(wxCommandEvent& event);
+		void WxButton2Click(wxCommandEvent& event);
+		void WxButton3Click(wxCommandEvent& event);
+		void WxButton4Click(wxCommandEvent& event);
 		
 	private:
 		//Do not add custom control declarations between
